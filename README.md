@@ -1,16 +1,17 @@
-## Hi there 👋
+# Overview
 
-<!--
-**NNRin/NNRin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently completing my **BSc in Computer Science at FHNW** (Expected Graduation: September 2026).
 
-Here are some ideas to get you started:
+I enjoy diving deep into complex technological problems, understanding their intricacies, and finding solutions for them.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | Java, C#, Python, JavaScript, TypeScript|
+| **Tools** | Git, CI/CD, Scrum, REST, Docker, TCP/IP, Linux, SQL, UML |
+| **Frameworks** | Spring, Rx.NET, Django, React, Redux |
+| **Paradigms** | Object-Oriented Programming, Reactive Programming, Functional Programming |
+
+## A Note on My Portfolio
+*Many of the projects I have contributed to are not stored in public repositories, thus they are not present on my profile.*
