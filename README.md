@@ -13,5 +13,16 @@ I enjoy diving deep into complex technological problems, understanding their int
 | **Frameworks** | Spring, Rx.NET, Django, React, Redux |
 | **Paradigms** | Object-Oriented Programming, Reactive Programming, Functional Programming |
 
+## Projects
+[jBlackJack](https://github.com/NNRin/jBlackJack)
+
+<img width="800" alt="SCR-20260404-kuiu" src="https://github.com/user-attachments/assets/665e8caa-d11e-4a02-9f87-d24041ecbd34" />
+
+- Simple web app to play Blackjack
+- Java, Spring Boot, HTML/CSS/JS
+- Learning exercise to improve my skills & deepen knowledge
+
+---
+
 ## A Note on My Portfolio
-*Many of the projects I have contributed to are not stored in public repositories, thus they are not present on my profile.*
+*Many of the projects I have contributed to are not stored in public repositories or on other Git hosting services; thus they are not present on my profile.*
