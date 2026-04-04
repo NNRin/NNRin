@@ -8,9 +8,9 @@ I enjoy diving deep into complex technological problems, understanding their int
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | Java, C#, Python, JavaScript, TypeScript|
+| **Languages** | Java, C#, Python, JavaScript |
 | **Tools** | Git, CI/CD, Scrum, REST, Docker, TCP/IP, Linux, SQL, UML |
-| **Frameworks** | Spring, Rx.NET, Django, React, Redux |
+| **Frameworks** | Spring, Rx.NET, React, Redux |
 | **Paradigms** | Object-Oriented Programming, Reactive Programming, Functional Programming |
 
 ## Projects
