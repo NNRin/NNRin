@@ -1,7 +1,5 @@
 # Overview
 
-Currently completing my **BSc in Computer Science at FHNW** (Expected Graduation: September 2026).
-
 I enjoy diving deep into complex technological problems, understanding their intricacies, and finding solutions for them.  
 
 ## Technical Skills
@@ -21,8 +19,3 @@ I enjoy diving deep into complex technological problems, understanding their int
 - Simple web app to play Blackjack
 - Java, Spring Boot, HTML/CSS/JS
 - Learning exercise to improve my skills & deepen knowledge
-
----
-
-## A Note on My Portfolio
-*Many of the projects I have contributed to are not stored in public repositories or on other Git hosting services; thus they are not present on my profile.*
